@@ -1,0 +1,8 @@
+com\selenium\base\BaseTest.class
+com\database\connection\DataBaseConnector.class
+com\selenium\common\Global.class
+com\selenium\common\BasicProperties.class
+com\selenium\common\ExcelData.class
+com\database\connection\DatabaseTesting.class
+com\selenium\common\ExcelAPI.class
+com\selenium\base\BaseTestUI.class

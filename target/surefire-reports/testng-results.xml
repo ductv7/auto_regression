@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Framework" duration-ms="13801" started-at="2018-09-24T18:10:55Z" finished-at="2018-09-24T18:11:09Z">
+    <groups>
+    </groups>
+    <test name="Web Application Automation Framework" duration-ms="13801" started-at="2018-09-24T18:10:55Z" finished-at="2018-09-24T18:11:09Z">
+      <class name="com.selenium.testcases.UseCase_01">
+        <test-method status="PASS" signature="navigateBrowser()[pri:0, instance:com.selenium.testcases.UseCase_01@76494737]" test-instance-name="" name="navigateBrowser" is-config="true" duration-ms="12815" started-at="2018-09-25T01:10:55Z" finished-at="2018-09-25T01:11:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateBrowser -->
+        <test-method status="PASS" signature="Case_01()[pri:0, instance:com.selenium.testcases.UseCase_01@76494737]" test-instance-name="" name="Case_01" duration-ms="312" started-at="2018-09-25T01:11:08Z" finished-at="2018-09-25T01:11:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Case_01 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.testcases.UseCase_01@76494737]" test-instance-name="" name="tearDown" is-config="true" duration-ms="656" started-at="2018-09-25T01:11:08Z" finished-at="2018-09-25T01:11:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.testcases.UseCase_01 -->
+    </test> <!-- Web Application Automation Framework -->
+  </suite> <!-- Automation Framework -->
+</testng-results>

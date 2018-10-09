@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation Framework" verbose="1">
+
+<listeners>
+	<listener class-name="com.selenium.listeners.TestListener"></listener>
+</listeners>
+
+  <test name="Web Application Automation Framework" >
+    
+    <classes>
+      <class name="com.selenium.testcases.UseCase_01"/>
+
+    </classes>
+ </test>
+</suite>
