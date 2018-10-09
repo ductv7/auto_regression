@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.database.connection;
+package com.database.utilities;
 
 import java.util.ArrayList;
 

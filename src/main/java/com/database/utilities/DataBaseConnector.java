@@ -1,4 +1,4 @@
-package com.database.connection;
+package com.database.utilities;
 
 /**
  * @author Tran Viet Duc
